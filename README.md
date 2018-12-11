@@ -1,4 +1,4 @@
-# how
+# 建站
 LAMP指的是Linux（操作系统）、Apache（HTTP服务器），MySQL（数据库软件） 和PHP（有时也是指Perl或Python）的第一个字母，主要用来建立web应用平台。
 
 博主使用的是LNMP一键安装包，具体可参看这里：https://lnmp.org/install.html
